@@ -12,6 +12,8 @@
 ## Skills Utilized
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" height="50" style="margin-right: 10px;">
+
+  
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" height="50">
 </div>
 
