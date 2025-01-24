@@ -16,13 +16,6 @@
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3**  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
 
-
-- **React Native Components**: For building UI (View, Text, Image, FlatList).
-- **API Integration**: Fetch API for connecting with TVMaze endpoints.
-- **State Management**: `useState` and `useEffect` for handling app state.
-- **Navigation**: React Navigation for stack and bottom tab navigation.
-- **Styling**: Styled components and StyleSheet for designing layouts.
-
 ---
 
 ## API Endpoints
